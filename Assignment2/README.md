@@ -1,3 +1,3 @@
-# Exploratory-Data-Analysis---Proejct-2
+# Exploratory-Data-Analysis
 
-Like it says.
+Like it says
